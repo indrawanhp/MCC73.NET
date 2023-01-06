@@ -1,0 +1,80 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_LayoutBuatan";
+}
+
+@*<div id="title" class="container-fluid">
+    Test
+</div>
+<div class="row">
+    <div class="col-6 my-auto">
+        <p>
+            Velit mollis odio sollicitudin lacinia aliquam posuere, sapien elementum lobortis tincidunt, turpis dui ornare nisl, sollicitudin interdum turpis nunc eget sem nulla eu ultricies orci praesent id augue nec lorem pretium congue sit amet ac nunc fusce iaculis lorem eu diam hendrerit at mattis purus dignissim vivamus mauris tellus, fringilla vel dapibus a, blandit quis erat vivamus elementum aliquam luctus etiam fringilla pretium sem vitae sodales mauris id nulla est praesent laoreet, metus vel auctor aliquam, eros purus vulputate leo, eget consequat neque quam id tellus duis ultricies tempor tortor, vitae dignissim ligula mattis nec in hac habitasse platea dictumst.
+        </p>
+    </div>
+    <div class="col-6">
+        <div class="row double">
+            <p>
+                Laoreet ac, aliquam sit amet justo nunc tempor, metus vel placerat suscipit, orci nisl iaculis eros, a tincidunt nisi odio eget lorem nulla condimentum tempor mattis ut vitae feugiat augue cras ut metus a risus iaculis scelerisque eu ac ante fusce non varius purus aenean nec magna felis fusce vestibulum.
+            </p>
+        </div>
+        <div class="row double">
+            <p>
+                Laoreet ac, aliquam sit amet justo nunc tempor, metus vel placerat suscipit, orci nisl iaculis eros, a tincidunt nisi odio eget lorem nulla condimentum tempor mattis ut vitae feugiat augue cras ut metus a risus iaculis scelerisque eu ac ante fusce non varius purus aenean nec magna felis fusce vestibulum.
+            </p>
+        </div>
+    </div>
+</div>
+
+<section id="b" class="section2">
+    <p>ini paragraf 5</p>
+    <ul id="a">
+        <li id="list" class="list"></li>
+        <li id="list" class="list"></li>
+        <li id="list" class="list"></li>
+        <li id="list" class="list"></li>
+    </ul>
+</section>
+*@
+
+<h1>List Pokemon</h1>
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr class="text-center">
+            <th width="5%">No</th>
+            <th width="50%">Name</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody id="tablePoke"></tbody>
+</table>
+
+
+<div class="modal fade" id="modalPoke" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="modalTitle">Modal title</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <div id="content-poke" class="text-center">
+                    <div id="card-poke" class="card mx-auto" style="width: 18rem;">
+                        <img id="img-poke" src="" class="card-img-top " alt="">
+                        <div class="card-body">
+                            <div class="info">
+                                <h3 id="poke-name" class="name"></h3>
+                                <small class="mb-1" id="poke-type">
+                                </small>
+                                <p id="physic-poke" class="mt-2"></p>
+                                <div class="poke-stat"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

@@ -3937,11 +3937,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET-hanif\\API\\API.csproj",
+      "projectUniqueName": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET-hanif\\API\\API.csproj",
+      "projectPath": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Acer-PC\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET-hanif\\API\\obj\\",
+      "outputPath": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

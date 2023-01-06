@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6L8gEvHSJUZhx1TlqL0vYBfeosP5L2cHG4XET4XPxnOQjE+BPhfiE8nIphY6MPyBQbVeZ5vX52a40/AI4+S3WA==",
+  "dgSpecHash": "BQCM57yoHArx0+eHyjb5e1KzJzXWaMuVFuX1ODIzqYWt6I8jkiQdM1KPdStwMT46ZptCLuyaQcBvjj6BxHlRoA==",
   "success": true,
-  "projectFilePath": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET-hanif\\API\\API.csproj",
+  "projectFilePath": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer-PC\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Acer-PC\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

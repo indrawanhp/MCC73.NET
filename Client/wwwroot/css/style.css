@@ -13,14 +13,26 @@ h1 {
     letter-spacing: 3px;
 }
 
+.circle {
+    margin-left:23%;
+    padding: 75px;
+    position: absolute;
+    background-color: darkgray;
+    border-radius: 50%;
+    top: 6%;
+    /*z-index: -1;*/
+    border:2px solid;
+}
 
 #img-poke {
     /*border: 1px solid;*/
+    position:relative;
     width:150px;
     height:150px;
     margin-top:25px;
     margin-right:auto;
     margin-left:auto;
+    z-index:1;
 }
 
 #card-poke {
@@ -29,7 +41,7 @@ h1 {
 }
 
 .card {
-    border-radius: 7% 7% 0 0;
+    border-radius: 7% 7% 7% 7%;
 }
 
 .poke-stat {

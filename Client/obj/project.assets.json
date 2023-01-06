@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET-hanif\\Client\\Client.csproj",
+      "projectUniqueName": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\Client.csproj",
       "projectName": "Client",
-      "projectPath": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET-hanif\\Client\\Client.csproj",
+      "projectPath": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\Client.csproj",
       "packagesPath": "C:\\Users\\Acer-PC\\.nuget\\packages\\",
-      "outputPath": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET-hanif\\Client\\obj\\",
+      "outputPath": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Acer-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,4 @@
-﻿//$(document).ready(function () {
-
-//});
-
-let table = $('#myTable').DataTable({
+﻿let table = $('#myTable').DataTable({
     ajax: {
         url: "https://localhost:7234/api/Employees",
         dataType: "Json",
@@ -61,7 +57,7 @@ let table = $('#myTable').DataTable({
         {
             data: "nik",
             render: function (data) {
-                return `<a type="button" onclick="Delete(${data})" class="text-danger font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Edit user">Delete</a>`
+                return `<a type="button" onclick="Delete(\'${data}\')" class="text-danger font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Edit user">Delete</a>`
             }
         }
     ]

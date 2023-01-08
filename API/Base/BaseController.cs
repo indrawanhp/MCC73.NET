@@ -20,9 +20,9 @@ public class BaseController<Repository, Entity, Key> : ControllerBase
         _repo = repo;
     }
 
-    public BaseController(EducationsController repo)
-    {
-    }
+    //public BaseController(EducationsController repo)
+    //{
+    //}
 
     [HttpGet]
     public ActionResult GetAll()
@@ -42,7 +42,7 @@ public class BaseController<Repository, Entity, Key> : ControllerBase
     }
 
     [HttpGet]
-    [Route("{id}")]
+    [Route("{key}")]
     public ActionResult GetById(Key key)
     {
         try
@@ -90,6 +90,7 @@ public class BaseController<Repository, Entity, Key> : ControllerBase
     }
 
     [HttpDelete]
+    [Route("{key}")]
     public ActionResult Delete(Key key)
     {
         try

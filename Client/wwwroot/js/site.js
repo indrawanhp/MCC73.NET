@@ -150,7 +150,7 @@ function detailPoke(stringUrl) {
                 base_stat = result.stats[i].base_stat;
             }
 
-            $('#modalTitle').html(name)
+            //$('#modalTitle').html(name)
             $('#img-poke').attr('src', result.sprites.other["dream_world"].front_default)
             $('#poke-name').html(name);
             $('#physic-poke').html(physic)
@@ -210,3 +210,7 @@ function detailPoke(stringUrl) {
         }
     })
 }
+
+$(document).ready(function () {
+    $('#myTable').DataTable();
+});

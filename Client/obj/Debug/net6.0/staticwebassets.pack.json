@@ -5,6 +5,1138 @@
       "PackagePath": "staticwebassets\\Client.bundle.scp.css"
     },
     {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\css\\argon-dashboard.css",
+      "PackagePath": "staticwebassets\\admin\\css\\argon-dashboard.css"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\css\\argon-dashboard.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\argon-dashboard.css.map"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\css\\argon-dashboard.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\argon-dashboard.min.css"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\css\\nucleo-icons.css",
+      "PackagePath": "staticwebassets\\admin\\css\\nucleo-icons.css"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\css\\nucleo-svg.css",
+      "PackagePath": "staticwebassets\\admin\\css\\nucleo-svg.css"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\fonts\\nucleo-icons.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\nucleo-icons.eot"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\fonts\\nucleo-icons.svg",
+      "PackagePath": "staticwebassets\\admin\\fonts\\nucleo-icons.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\fonts\\nucleo-icons.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\nucleo-icons.ttf"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\fonts\\nucleo-icons.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\nucleo-icons.woff"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\fonts\\nucleo-icons.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\nucleo-icons.woff2"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\fonts\\nucleo.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\nucleo.eot"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\fonts\\nucleo.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\nucleo.ttf"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\fonts\\nucleo.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\nucleo.woff"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\fonts\\nucleo.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\nucleo.woff2"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\apple-icon.png",
+      "PackagePath": "staticwebassets\\admin\\img\\apple-icon.png"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\bg-profile.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\bg-profile.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\bg1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\bg1.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\bruce-mars.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\bruce-mars.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved-10.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved-10.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved-11.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved-11.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved-6.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved-6.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved-8.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved-8.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved0.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved0.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved1.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved10.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved10.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved11-small.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved11-small.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved11.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved11.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved12.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved12.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved13.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved13.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved14.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved14.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved19.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved19.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved2.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved21.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved21.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved3.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved3.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved4.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved4.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved5-small.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved5-small.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved5.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved5.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved6-small.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved6-small.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved6.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved6.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved7.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved7.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved8.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved8.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\curved9.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\curved9.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\curved-images\\white-curved.jpeg",
+      "PackagePath": "staticwebassets\\admin\\img\\curved-images\\white-curved.jpeg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\down-arrow-dark.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\down-arrow-dark.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\down-arrow-white.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\down-arrow-white.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\down-arrow.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\down-arrow.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\img\\favicon.png"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\home-decor-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\home-decor-1.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\home-decor-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\home-decor-2.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\home-decor-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\home-decor-3.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\icons\\flags\\AU.png",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\flags\\AU.png"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\icons\\flags\\BR.png",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\flags\\BR.png"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\icons\\flags\\DE.png",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\flags\\DE.png"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\icons\\flags\\GB.png",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\flags\\GB.png"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\icons\\flags\\US.png",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\flags\\US.png"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\illustrations\\icon-documentation.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\illustrations\\icon-documentation.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\illustrations\\rocket-white.png",
+      "PackagePath": "staticwebassets\\admin\\img\\illustrations\\rocket-white.png"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\ivana-square.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\ivana-square.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\ivancik.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\ivancik.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\kal-visuals-square.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\kal-visuals-square.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\logo-ct-dark.png",
+      "PackagePath": "staticwebassets\\admin\\img\\logo-ct-dark.png"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\logo-ct.png",
+      "PackagePath": "staticwebassets\\admin\\img\\logo-ct.png"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\logos\\mastercard.png",
+      "PackagePath": "staticwebassets\\admin\\img\\logos\\mastercard.png"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\logos\\visa.png",
+      "PackagePath": "staticwebassets\\admin\\img\\logos\\visa.png"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\marie.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\marie.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\shapes\\pattern-lines.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\shapes\\pattern-lines.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\shapes\\shape-1.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\shapes\\shape-1.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\shapes\\shape-2.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\shapes\\shape-2.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\shapes\\shape-3.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\shapes\\shape-3.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\shapes\\wave-down.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\shapes\\wave-down.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\shapes\\wave-up.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\shapes\\wave-up.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\shapes\\waves-gray.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\shapes\\waves-gray.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\shapes\\waves-white.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\shapes\\waves-white.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\small-logos\\icon-sun-cloud.png",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\icon-sun-cloud.png"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\small-logos\\logo-atlassian.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\logo-atlassian.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\small-logos\\logo-invision.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\logo-invision.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\small-logos\\logo-jira.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\logo-jira.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\small-logos\\logo-slack.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\logo-slack.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\small-logos\\logo-spotify.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\logo-spotify.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\small-logos\\logo-webdev.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\logo-webdev.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\small-logos\\logo-xd.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\small-logos\\logo-xd.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\theme\\angular.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\theme\\angular.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\theme\\bootstrap.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\theme\\bootstrap.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\theme\\dribbble.png",
+      "PackagePath": "staticwebassets\\admin\\img\\theme\\dribbble.png"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\theme\\dropbox.png",
+      "PackagePath": "staticwebassets\\admin\\img\\theme\\dropbox.png"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\theme\\mastercard.png",
+      "PackagePath": "staticwebassets\\admin\\img\\theme\\mastercard.png"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\theme\\paypal.png",
+      "PackagePath": "staticwebassets\\admin\\img\\theme\\paypal.png"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\theme\\react.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\theme\\react.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\theme\\sketch.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\theme\\sketch.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\theme\\slack.png",
+      "PackagePath": "staticwebassets\\admin\\img\\theme\\slack.png"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\theme\\spotify.jpeg",
+      "PackagePath": "staticwebassets\\admin\\img\\theme\\spotify.jpeg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\theme\\tim.png",
+      "PackagePath": "staticwebassets\\admin\\img\\theme\\tim.png"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\theme\\unass.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\theme\\unass.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\theme\\visa.png",
+      "PackagePath": "staticwebassets\\admin\\img\\theme\\visa.png"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\theme\\vue.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\theme\\vue.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\img\\vr-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\vr-bg.jpg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\Data\\Employee.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Data\\Employee.js"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\argon-dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\argon-dashboard.js"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\argon-dashboard.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\argon-dashboard.js.map"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\argon-dashboard.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\argon-dashboard.min.js"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\core\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\core\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\myScript.js",
+      "PackagePath": "staticwebassets\\admin\\js\\myScript.js"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\plugins\\Chart.extension.js",
+      "PackagePath": "staticwebassets\\admin\\js\\plugins\\Chart.extension.js"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\plugins\\bootstrap-notify.js",
+      "PackagePath": "staticwebassets\\admin\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\plugins\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\plugins\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\plugins\\smooth-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\plugins\\smooth-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_alert.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_avatars.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_avatars.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_cards.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_dark-version.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_dropup.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_dropup.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_gradients.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_header.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_header.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_info-areas.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_misc.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_nav.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_popovers.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_popovers.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_progress.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_rtl.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_rtl.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_tilt.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_tilt.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_timeline.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_tooltips.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_typography.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_typography.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_utilities-extend.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_accordion.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_containers.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_containers.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_helpers.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_helpers.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_maps.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_maps.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_placeholders.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\helpers\\_position.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_container.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\utilities\\_api.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\cards\\card-background.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\cards\\card-background.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\cards\\card-carousel.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\cards\\card-carousel.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\custom\\_styles.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\custom\\_styles.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\custom\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\custom\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\forms\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\forms\\_form-switch.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\forms\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\forms\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\forms\\_inputs.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\forms\\_inputs.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\mixins\\_colored-shadows.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\mixins\\_colored-shadows.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\mixins\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\mixins\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\mixins\\mixins.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\mixins\\mixins.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\plugins\\free\\_flatpickr.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\plugins\\free\\_flatpickr.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\plugins\\free\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\plugins\\free\\_nouislider.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\plugins\\free\\_perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\plugins\\free\\_perfect-scrollbar.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\plugins\\free\\_prism.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\plugins\\free\\_prism.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\plugins\\free\\plugins.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\plugins\\free\\plugins.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\theme.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\theme.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_animations.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_animations.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_avatars.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_avatars.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_cards-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_cards-extend.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_cards.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_cards.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_choices.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_choices.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_dark-version.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_dark-version.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_dropdowns.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_dropdowns.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_fixed-plugin.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_fixed-plugin.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_form-switch.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_form-switch.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_full-calendar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_full-calendar.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_header.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_header.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_info-areas.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_info-areas.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_misc-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_misc-extend.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_misc.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_misc.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_navbar-vertical.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_navbar-vertical.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_navbar.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_rtl.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_rtl.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_social-buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_social-buttons.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_table.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_table.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_timeline.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_utilities-extend.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_utilities-extend.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_utilities.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_virtual-reality.scss",
+      "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_virtual-reality.scss"
+    },
+    {
       "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

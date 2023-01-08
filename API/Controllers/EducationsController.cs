@@ -11,7 +11,9 @@ namespace API.Controllers;
 [Authorize(Roles = "Manager")]
 public class EducationsController : BaseController<EducationRepositories, Education, int>
 {
-    public EducationsController(EducationsController repo) : base(repo)
-    {
-    }
+    private EducationRepositories _repo;
+	public EducationsController(EducationRepositories repo) : base(repo)
+	{
+		_repo = repo;
+	}
 }

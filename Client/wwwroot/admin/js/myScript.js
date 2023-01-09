@@ -1,4 +1,19 @@
 ﻿let table = $('#myTable').DataTable({
+    dom: 'Bfrtip',
+    buttons: [
+        {
+            extend: 'excelHtml5',
+            exportOptions: {
+                columns: [0, 1, 2, 3, 4, 5, 6, 7]
+            }
+        },
+        {
+            extend: 'pdfHtml5',
+            exportOptions: {
+                columns: [0, 1, 2, 3, 4, 5, 6, 7]
+            }
+        }
+    ],
     ajax: {
         url: "https://localhost:7234/api/Employees",
         dataType: "Json",
@@ -57,18 +72,74 @@
         {
             data: "nik",
             render: function (data) {
-                return `<a type="button" onclick="Delete(\'${data}\')" class="text-danger font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Edit user">Delete</a>`
+                return `<a type="button" onclick="Delete(\'${data}\')" class="text-warning font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Delete user">Edit</a> | <a type="button" onclick="Delete(\'${data}\')" class="text-danger font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Delete user">Delete</a>`
             }
         }
     ]
 });
 
-console.log("test");
 $(document).ready(function () {
-    $("#AddEmployeeForm").submit(function (e) {
-        e.preventDefault()
-        Insert()
-    });
+    $('#AddEmployeeForm').validate({
+        rules: {
+            nik: {
+                required: true,
+                maxlength: 5
+            },
+            firstname: {
+                required: true
+            },
+            lastname: {
+                required: true
+            },
+            email: {
+                required: true,
+                email: true
+            },
+            phone: {
+                required: true
+            },
+            birthDate: {
+                required: true
+            },
+            salary: {
+                required: true
+            },
+            gender: {
+                required: true
+            }
+        },
+        messages: {
+            nik: {
+                required: "NIK is Required.",
+                maxlength: "Max length is 5"
+            },
+            firstname: {
+                required: "First Name is Required."
+            },
+            lastname: {
+                required: "Last Name is Required."
+            },
+            email: {
+                required: "Email is Required.",
+                email: "Form must be email!"
+            },
+            phone: {
+                required: "Phone Number is Required."
+            },
+            birthDate: {
+                required: "Birth Date is Required."
+            },
+            salary: {
+                required: "Salary is Required."
+            },
+            gender: {
+                required: "Gender is Required."
+            }
+        },
+        submitHandler: () => {
+            Insert();
+        }
+    })
 });
 
 const Insert = () => {
@@ -82,8 +153,6 @@ const Insert = () => {
         Salary: parseInt($("#salary").val()),
         Gender: parseInt($("#gender").val())
     }
-
-    console.log(employee);
 
     $.ajax({
         url: "https://localhost:7234/api/Employees",

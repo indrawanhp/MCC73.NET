@@ -6,6 +6,26 @@
     ViewBag.Title = "List Employee";
 }
 
+<style>
+    label {
+        width: 300px;
+        display: inline-block;
+        margin-top: 20px;
+    }
+
+    label.error {
+        color: red;
+        font-size: 12px;
+        display: block;
+        margin-top: 5px;
+    }
+
+    input.error, textarea.error {
+        border: 1px solid red;
+        color: red;
+    }
+</style>
+
 <div class="row">
     <div class="col-12">
         <div class="card mb-4">
@@ -20,17 +40,17 @@
             <div class="card-body px-0 pt-0 pb-2">
                 <div class="table-responsive px-4">
                     <table id="myTable" class="table align-items-center mb-0">
-                        <thead>
+                        <thead class="table-light">
                             <tr>
-                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder">Nik</th>
-                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder ps-2">First Name</th>
-                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder ps-2">Last Name</th>
-                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder ps-2">Phone</th>
-                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder ps-2">Birth Date</th>
-                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder ps-2">Salary</th>
-                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder ps-2">Email</th>
-                                <th class="text-uppercase text-secondary text-xxs font-weight-bolder ps-2">Gender</th>
-                                <th class="text-secondary"></th>
+                                <th class="text-uppercase text-xxs font-weight-bolder">Nik</th>
+                                <th class="text-xxs font-weight-bolder ps-2">First Name</th>
+                                <th class="text-xxs font-weight-bolder ps-2">Last Name</th>
+                                <th class="text-xxs font-weight-bolder ps-2">Phone</th>
+                                <th class="text-xxs font-weight-bolder ps-2">Birth Date</th>
+                                <th class="text-xxs font-weight-bolder ps-2">Salary</th>
+                                <th class="text-xxs font-weight-bolder ps-2">Email</th>
+                                <th class="text-xxs font-weight-bolder ps-2">Gender</th>
+                                <th class="text-xxs font-weight-bolder ps-2">Action</th>
                             </tr>
                         </thead>
                     </table>
@@ -52,10 +72,12 @@
             </div>
 
             <div class="modal-body">
-                <form id="AddEmployeeForm" novalidate>
+                <form id="AddEmployeeForm" class="needs-validation" novalidate>
                     <div class="form-group">
-                        <label for="nik">NIK</label>
-                        <input type="text" id="nik" name="nik" class="form-control" />
+                        <div class="col-12">
+                            <label for="nik" class="form-label">NIK</label>
+                            <input type="text" id="nik" name="nik" class="form-control" required />
+                        </div>
                     </div>
                     <div class="form-group">
                         <div class="row">
@@ -89,18 +111,14 @@
                             </div>
                             <div class="col-6">
                                 <label class="form-label">Salary</label>
-                                <div class="input-group mb-3">
-                                    <span class="input-group-text">Rp.</span>
-                                    <input type="text" id="salary" name="salary" class="form-control" aria-label="Amount (to the nearest dollar)" required>
-                                    <span class="input-group-text">.00</span>
-                                </div>
+                                <input type="text" id="salary" name="salary" class="form-control" required>
                             </div>
                         </div>
                     </div>
                     <div class="form-group">
                         <label for="gender">Gender</label>
                         <select name="gender" id="gender" class="form-select" required>
-                            <option selected disabled hidden >Select Gender</option>
+                            <option selected disabled hidden>Select Gender</option>
                             <option value="0">Male</option>
                             <option value="1">Female</option>
                         </select>
@@ -115,3 +133,9 @@
     </div>
 </div>
 
+@section scripts{
+    <script type="text/javascript">
+        console.log("Test 12345456")
+
+    </script>
+}

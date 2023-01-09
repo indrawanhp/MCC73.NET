@@ -417,10 +417,6 @@
       "PackagePath": "staticwebassets\\admin\\img\\vr-bg.jpg"
     },
     {
-      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\Data\\Employee.js",
-      "PackagePath": "staticwebassets\\admin\\js\\Data\\Employee.js"
-    },
-    {
       "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\argon-dashboard.js",
       "PackagePath": "staticwebassets\\admin\\js\\argon-dashboard.js"
     },

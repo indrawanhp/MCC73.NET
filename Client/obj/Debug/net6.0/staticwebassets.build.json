@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QK+WTE+WG99ufYs7NsMkixDnZXf+NAm+BoQv+v3llds=",
+  "Hash": "YytW3aiXqXjw1KWewFbqwntqKnDqOOIpCpY7bOp5Poc=",
   "Source": "Client",
   "BasePath": "_content/Client",
   "Mode": "Default",
@@ -1902,23 +1902,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\admin\\js\\core\\popper.min.js"
-    },
-    {
-      "Identity": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\Data\\Employee.js",
-      "SourceId": "Client",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\",
-      "BasePath": "_content/Client",
-      "RelativePath": "admin/js/Data/Employee.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\admin\\js\\Data\\Employee.js"
     },
     {
       "Identity": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\myScript.js",

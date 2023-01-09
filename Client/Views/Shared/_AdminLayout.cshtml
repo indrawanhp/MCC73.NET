@@ -11,6 +11,7 @@
     </title>
     @*Data table*@
     <link href="https://cdn.datatables.net/1.13.1/css/jquery.dataTables.min.css" rel="stylesheet" />
+    <link href="https://cdn.datatables.net/buttons/2.3.2/css/buttons.dataTables.min.css" rel="stylesheet" />
     <!--     Fonts and icons     -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet" />
     <!-- Nucleo Icons -->
@@ -19,6 +20,7 @@
     <!-- Font Awesome Icons -->
     <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
     <link href="~/admin/css/nucleo-svg.css" rel="stylesheet" />
+
     <!-- CSS Files -->
     <link id="pagestyle" href="~/admin/css/argon-dashboard.css?v=2.0.4" rel="stylesheet" />
 </head>
@@ -227,6 +229,7 @@
             @RenderBody()
         </div>
     </main>
+    
     <div class="fixed-plugin">
         <a class="fixed-plugin-button text-dark position-fixed px-3 py-2">
             <i class="fa fa-cog py-2"> </i>
@@ -287,19 +290,30 @@
             </div>
         </div>
     </div>
+    
     <!--   Core JS Files   -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    @*<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>*@
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js"></script>
     <script src="https://cdn.datatables.net/1.13.1/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.3.2/js/dataTables.buttons.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.1.3/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/pdfmake.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.1.53/vfs_fonts.js"></script>
+    <script src="https://cdn.datatables.net/buttons/2.3.2/js/buttons.html5.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
     @*Sweet Alert 2*@
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     @*javascript myself*@
     <script src="~/admin/js/myScript.js"></script>
-    <script src="~/admin/js/data/Employee.js"></script>
     <script src="~/admin/js/core/popper.min.js"></script>
     <script src="~/admin/js/core/bootstrap.min.js"></script>
     <script src="~/admin/js/plugins/perfect-scrollbar.min.js"></script>
     <script src="~/admin/js/plugins/smooth-scrollbar.min.js"></script>
+    @*render section*@
+    @RenderSection("scripts")
     @*<script src="~/admin/js/plugins/chartjs.min.js"></script>*@
     <script>
         var win = navigator.platform.indexOf('Win') > -1;

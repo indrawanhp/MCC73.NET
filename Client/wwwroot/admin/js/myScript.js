@@ -1,19 +1,40 @@
 ﻿let table = $('#myTable').DataTable({
-    dom: 'Bfrtip',
+    responsive: true,
+    dom: '<"row"B><lfrtip>',
+    //dom: '<"top"Brf>t<"bottom"pli>',
     buttons: [
         {
-            extend: 'excelHtml5',
+            extend: 'excel',
+            text: '<i class="fas fa-regular fa-file-excel text-lg"></i>',
+            className: 'btn btn-sm btn-success',
+            attr: {
+                'data-bs-toggle': 'tooltip',
+                'data-bs-placement': 'top',
+                'title': 'Export to Excel'
+            },
             exportOptions: {
                 columns: [0, 1, 2, 3, 4, 5, 6, 7]
             }
         },
         {
-            extend: 'pdfHtml5',
+            extend: 'pdf',
+            text: '<i class="fas fa-file-pdf text-lg" aria-hidden="true"></i>',
+            className: 'btn btn-sm btn-danger',
+            attr: {
+                'data-bs-toggle': 'tooltip',
+                'data-bs-placement': 'top',
+                'title': 'Export to PDF'
+            },
             exportOptions: {
                 columns: [0, 1, 2, 3, 4, 5, 6, 7]
             }
         }
     ],
+    initComplete: () => {
+        var btns = $('.dt-button');
+        btns.removeClass('dt-button');
+
+    },
     ajax: {
         url: "https://localhost:7234/api/Employees",
         dataType: "Json",
@@ -72,14 +93,14 @@
         {
             data: "nik",
             render: function (data) {
-                return `<a type="button" onclick="Delete(\'${data}\')" class="text-warning font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Delete user">Edit</a> | <a type="button" onclick="Delete(\'${data}\')" class="text-danger font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Delete user">Delete</a>`
+                return `<a type="button" id="edit" onclick="Edit(\'${data}\')" class="text-warning font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Edit user" data-bs-toggle="modal" data-bs-target="#modal-form">Edit</a> | <a type="button" onclick="Delete(\'${data}\')" class="text-danger font-weight-bold text-xs" data-toggle="tooltip" data-original-title="Delete user">Delete</a>`
             }
         }
     ]
 });
 
 $(document).ready(function () {
-    $('#AddEmployeeForm').validate({
+    $('#EmployeeForm').validate({
         rules: {
             nik: {
                 required: true,
@@ -137,10 +158,80 @@ $(document).ready(function () {
             }
         },
         submitHandler: () => {
-            Insert();
+            if (!check) {
+                Insert()
+            } else {
+                Update()
+            }
         }
-    })
+    });
 });
+
+let check
+
+const Add = () => {
+    check = false
+    $('#nik').attr("disabled", false);
+}
+
+const Edit = (id) => {
+    check = true
+    $.ajax({
+        url: `https://localhost:7234/api/Employees/${id}`
+    }).done((result) => {
+        $('#nik').val(result.data.nik)
+        $('#nik').attr("disabled", true);
+        $('#firstname').val(result.data.firstName)
+        $("#lastname").val(result.data.lastName)
+        $("#email").val(result.data.email)
+        $("#phone").val(result.data.phone)
+        birthDate = (result.data.birthDate).substring(0, 10)
+        $("#birth_date").val(birthDate)
+        $("#salary").val(result.data.salary)
+        $("#gender").val(result.data.gender)
+    })
+}
+
+const Update = () => {
+    let update_employee = {
+        Nik: $('#nik').val(),
+        FirstName: $("#firstname").val(),
+        LastName: $("#lastname").val(),
+        Email: $("#email").val(),
+        Phone: $("#phone").val(),
+        BirthDate: $("#birth_date").val(),
+        Salary: parseInt($("#salary").val()),
+        Gender: parseInt($("#gender").val())
+    }
+
+    console.log(update_employee);
+
+    $.ajax({
+        url: "https://localhost:7234/api/Employees",
+        type: "PUT",
+        contentType: "application/json",
+        data: JSON.stringify(update_employee),
+    }).done((result) => {
+        console.log("success update");
+        $("#modal-form").modal("hide");
+        Swal.fire({
+            text: 'Employee has been Updated!',
+            icon: 'success',
+            timer: 5000,
+            timerProgressBar: true
+        });
+        table.ajax.reload()
+    }).fail((error) => {
+        console.log("failed update");
+        $("#modal-form").modal("hide");
+        Swal.fire({
+            text: 'Error Updating Employee!',
+            icon: 'error',
+            timer: 5000,
+            timerProgressBar: true
+        });
+    })
+}
 
 const Insert = () => {
     let employee = {
@@ -154,6 +245,8 @@ const Insert = () => {
         Gender: parseInt($("#gender").val())
     }
 
+    console.log(employee);
+
     $.ajax({
         url: "https://localhost:7234/api/Employees",
         type: "POST",
@@ -161,7 +254,7 @@ const Insert = () => {
         data: JSON.stringify(employee),
     }).done((result) => {
         console.log("success");
-        $("#modal-form-insert").modal("hide");
+        $("#modal-form").modal("hide");
         Swal.fire({
             text: 'New Employee Created!',
             icon: 'success',
@@ -171,16 +264,15 @@ const Insert = () => {
         table.ajax.reload()
     }).fail((error) => {
         console.log("failed");
-        $("#modal-form-insert").modal("hide");
+        $("#modal-form").modal("hide");
         Swal.fire({
-            text: 'Error Creating Project!',
+            text: 'Error Creating Employee!',
             icon: 'error',
             timer: 5000,
             timerProgressBar: true
         });
     })
 };
-
 
 const Delete = (id) => {
     Swal.fire({

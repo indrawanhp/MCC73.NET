@@ -1,11 +1,23 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using API.Models;
+using Client.Base;
+using Client.Repositories.Data;
+using Microsoft.AspNetCore.Mvc;
 
 namespace Client.Controllers;
 
-public class EmployeesController : Controller
+public class EmployeesController : BaseController<Employee, EmployeeRepository, string>
 {
-    public IActionResult Index()
+    private readonly EmployeeRepository repository;
+    public EmployeesController(EmployeeRepository repository) : base(repository)
     {
-        return View();
+        this.repository = repository;
     }
+
+    [HttpGet]
+    public async Task<JsonResult> GetAll()
+    {
+        var result = await repository.Get();
+        return Json(result);
+    }
+
 }

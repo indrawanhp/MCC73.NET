@@ -17,6 +17,17 @@ namespace Client.Controllers
         {
             return View();
         }
+        
+        public IActionResult Employees()
+        {
+            return View();
+        }
+
+        //Register
+        public IActionResult Register()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {

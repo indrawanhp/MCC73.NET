@@ -4,14 +4,14 @@
     "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\Client.csproj": {}
   },
   "projects": {
-    "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\Client.csproj": {
+    "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\Client.csproj",
-        "projectName": "Client",
-        "projectPath": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\Client.csproj",
+        "projectUniqueName": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\API\\API.csproj",
+        "projectName": "API",
+        "projectPath": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Acer-PC\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\obj\\",
+        "outputPath": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,106 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "BCrypt.Net-Next": {
+              "target": "Package",
+              "version": "[4.0.3, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[6.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\Client.csproj",
+        "projectName": "Client",
+        "projectPath": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\Client.csproj",
+        "packagesPath": "C:\\Users\\Acer-PC\\.nuget\\packages\\",
+        "outputPath": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Acer-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\API\\API.csproj": {
+                "projectPath": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\API\\API.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

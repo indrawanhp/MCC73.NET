@@ -1,7 +1,11 @@
+using Client.Repositories.Data;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddScoped<EmployeeRepository>();
 
 var app = builder.Build();
 

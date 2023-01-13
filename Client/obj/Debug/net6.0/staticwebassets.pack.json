@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\admin\\css\\argon-dashboard.min.css"
     },
     {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\css\\cust.css",
+      "PackagePath": "staticwebassets\\admin\\css\\cust.css"
+    },
+    {
       "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\css\\nucleo-icons.css",
       "PackagePath": "staticwebassets\\admin\\css\\nucleo-icons.css"
     },
@@ -441,6 +445,10 @@
       "PackagePath": "staticwebassets\\admin\\js\\core\\popper.min.js"
     },
     {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\custom\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\custom\\dashboard.js"
+    },
+    {
       "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\myScript.js",
       "PackagePath": "staticwebassets\\admin\\js\\myScript.js"
     },
@@ -451,6 +459,10 @@
     {
       "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\plugins\\bootstrap-notify.js",
       "PackagePath": "staticwebassets\\admin\\js\\plugins\\bootstrap-notify.js"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\plugins\\chartjs.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\plugins\\chartjs.min.js"
     },
     {
       "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\plugins\\perfect-scrollbar.min.js",
@@ -1147,6 +1159,10 @@
     {
       "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\img\\exams.svg",
       "PackagePath": "staticwebassets\\img\\exams.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\img\\working_late.svg",
+      "PackagePath": "staticwebassets\\img\\working_late.svg"
     },
     {
       "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\js\\site.js",

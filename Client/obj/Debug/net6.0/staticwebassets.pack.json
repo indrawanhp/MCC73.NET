@@ -445,10 +445,6 @@
       "PackagePath": "staticwebassets\\admin\\js\\core\\popper.min.js"
     },
     {
-      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\custom\\dashboard.js",
-      "PackagePath": "staticwebassets\\admin\\js\\custom\\dashboard.js"
-    },
-    {
       "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\js\\myScript.js",
       "PackagePath": "staticwebassets\\admin\\js\\myScript.js"
     },
@@ -1143,6 +1139,26 @@
     {
       "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\admin\\scss\\argon-dashboard\\variables\\_virtual-reality.scss",
       "PackagePath": "staticwebassets\\admin\\scss\\argon-dashboard\\variables\\_virtual-reality.scss"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\auth\\css\\404.css",
+      "PackagePath": "staticwebassets\\auth\\css\\404.css"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\auth\\img\\astronaut.svg",
+      "PackagePath": "staticwebassets\\auth\\img\\astronaut.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\auth\\img\\planet.svg",
+      "PackagePath": "staticwebassets\\auth\\img\\planet.svg"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\auth\\js\\404.js",
+      "PackagePath": "staticwebassets\\auth\\js\\404.js"
+    },
+    {
+      "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\css\\auth\\403.css",
+      "PackagePath": "staticwebassets\\css\\auth\\403.css"
     },
     {
       "Id": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\wwwroot\\css\\site.css",

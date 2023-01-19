@@ -36,9 +36,10 @@
 
     },
     ajax: {
-        url: "https://localhost:7234/api/Employees",
+        type: "GET",
+        url: "../Employees/GetAll",
         dataType: "Json",
-        dataSrc: "data"
+        dataSrc: ""
     },
     columns: [
         {
@@ -177,18 +178,18 @@ const Add = () => {
 const Edit = (id) => {
     check = true
     $.ajax({
-        url: `https://localhost:7234/api/Employees/${id}`
+        url: `../Employees/Get/${id}`
     }).done((result) => {
-        $('#nik').val(result.data.nik)
+        $('#nik').val(result.nik)
         $('#nik').attr("disabled", true);
-        $('#firstname').val(result.data.firstName)
-        $("#lastname").val(result.data.lastName)
-        $("#email").val(result.data.email)
-        $("#phone").val(result.data.phone)
-        birthDate = (result.data.birthDate).substring(0, 10)
+        $('#firstname').val(result.firstName)
+        $("#lastname").val(result.lastName)
+        $("#email").val(result.email)
+        $("#phone").val(result.phone)
+        birthDate = (result.birthDate).substring(0, 10)
         $("#birth_date").val(birthDate)
-        $("#salary").val(result.data.salary)
-        $("#gender").val(result.data.gender)
+        $("#salary").val(result.salary)
+        $("#gender").val(result.gender)
     })
 }
 
@@ -207,7 +208,7 @@ const Update = () => {
     console.log(update_employee);
 
     $.ajax({
-        url: "https://localhost:7234/api/Employees",
+        url: "../Employees/Put",
         type: "PUT",
         contentType: "application/json",
         data: JSON.stringify(update_employee),
@@ -248,7 +249,7 @@ const Insert = () => {
     console.log(employee);
 
     $.ajax({
-        url: "https://localhost:7234/api/Employees",
+        url: "../Employees/Post",
         type: "POST",
         contentType: "application/json",
         data: JSON.stringify(employee),
@@ -287,7 +288,7 @@ const Delete = (id) => {
         if (result.isConfirmed) {
             $.ajax({
                 type: 'DELETE',
-                url: `https://localhost:7234/api/Employees/${id}`,
+                url: `../Employees/Delete/${id}`,
                 success: () => {
                     Swal.fire(
                         'Deleted!',

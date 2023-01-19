@@ -26,6 +26,12 @@ public class BaseController<Entity, Repository, TId> : Controller
         var result = await repository.Get(id);
         return Json(result);
     }
+    //[HttpGet]
+    //public JsonResult Get(TId id)
+    //{
+    //    var result = repository.Get(id);
+    //    return Json(result);
+    //}
 
     [HttpPost]
     public JsonResult Post([FromBody] Entity entity)

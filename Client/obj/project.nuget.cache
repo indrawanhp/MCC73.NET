@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JhrehEz9ypYBYgFm7M6tqpzaFlD8W1nVh2H6jCph9xYUmavtD6zTRAQHU51dUPi64AA7qm30YxYoPKFTlmCfzQ==",
+  "dgSpecHash": "yrQ+RR8zGCxGPjTsOMIoZXnO3n85/3cEQOtuCAFon0lQO2T4GlHoXycA5Y31zdqZjC4kaaOKXDwrGzYHeRy7uA==",
   "success": true,
   "projectFilePath": "D:\\Work\\MII\\Bootcamp\\Materi\\MVC\\Trainer\\MCC73NET\\Client\\Client.csproj",
   "expectedPackageFiles": [
@@ -73,8 +73,8 @@
     "C:\\Users\\Acer-PC\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
     "C:\\Users\\Acer-PC\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\Acer-PC\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512",
-    "C:\\Users\\Acer-PC\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
-    "C:\\Users\\Acer-PC\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512",
+    "C:\\Users\\Acer-PC\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\Acer-PC\\.nuget\\packages\\system.text.json\\7.0.1\\system.text.json.7.0.1.nupkg.sha512",
     "C:\\Users\\Acer-PC\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\Acer-PC\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Acer-PC\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512"

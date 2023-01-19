@@ -16,19 +16,27 @@
                             <p class="mb-0">Enter your email and password to sign in</p>
                         </div>
                         <div class="card-body">
-                            <form role="form">
-                                <div class="mb-3">
-                                    <input type="email" class="form-control form-control-lg" placeholder="Email" aria-label="Email">
+                            <form role="form" method="POST" action="Login/Auth" class="needs-validation" id="formLogin" novalidate>
+                                <div class="input-group mb-3">
+                                    <input type="email" class="form-control" name="Email" placeholder="Email" aria-label="Email" required>
+                                    <div class="input-group-text">
+                                        <span class=" fas fa-envelope"></span>
+                                    </div>
+                                    <div class="invalid-feedback">
+                                        Please provide a valid email.
+                                    </div>
                                 </div>
-                                <div class="mb-3">
-                                    <input type="email" class="form-control form-control-lg" placeholder="Password" aria-label="Password">
-                                </div>
-                                <div class="form-check form-switch">
-                                    <input class="form-check-input" type="checkbox" id="rememberMe">
-                                    <label class="form-check-label" for="rememberMe">Remember me</label>
+                                <div class="input-group mb-3">
+                                    <input type="password" class="form-control" name="Password" placeholder="Password" aria-label="Password" required>
+                                    <div class="input-group-text ">
+                                        <span class="fas fa-lock"></span>
+                                    </div>
+                                    <div class="invalid-feedback">
+                                        Password cannot be empty.
+                                    </div>
                                 </div>
                                 <div class="text-center">
-                                    <button type="button" class="btn btn-lg btn-primary btn-lg w-100 mt-4 mb-0">Sign in</button>
+                                    <button type="submit" id="btn_login" class="btn btn-lg btn-primary btn-lg w-100 mt-4 mb-0">Sign in</button>
                                 </div>
                             </form>
                         </div>
@@ -52,3 +60,26 @@
         </div>
     </div>
 </section>
+
+@section scripts{
+    <script>
+        console.log("Login");
+        (function () {
+            'use strict';
+            window.addEventListener('load', function () {
+                // Fetch all the forms we want to apply custom Bootstrap validation styles to
+                var forms = document.getElementsByClassName('needs-validation');
+                // Loop over them and prevent submission
+                var validation = Array.prototype.filter.call(forms, function (form) {
+                    form.addEventListener('submit', function (event) {
+                        if (form.checkValidity() === false) {
+                            event.preventDefault();
+                            event.stopPropagation();
+                        }
+                        form.classList.add('was-validated');
+                    }, false);
+                });
+            }, false);
+        })();
+    </script>
+}

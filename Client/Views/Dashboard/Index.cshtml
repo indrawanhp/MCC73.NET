@@ -62,40 +62,75 @@
 </div>
 
 @section scripts {
-    <script src="~/admin/js/custom/dashboard.js"></script>
     <script>
+        $.ajax({
+            url: "../Employees/GetAll",
+        }).done((result) => {
+            console.log(result);
+            var gender = result.map(x => ({ gender: x.gender }));
+            var { Male, Female } = gender.reduce((previous, current) => {
+                if (current.gender === 0) {
+                    return { ...previous, Male: previous.Male + 1 }
+                } if (current.gender === 1) {
+                    return { ...previous, Female: previous.Female + 1 }
+                }
+            }, { Male: 0, Female: 0 })
 
-        //Area
-        var options = {
-            series: [{
-                name: 'series1',
-                data: [31, 40, 28, 51, 42, 109, 100]
-            }, {
-                name: 'series2',
-                data: [11, 32, 45, 32, 34, 52, 41]
-            }],
-            chart: {
-                height: 350,
-                type: 'area'
-            },
-            dataLabels: {
-                enabled: false
-            },
-            stroke: {
-                curve: 'smooth'
-            },
-            xaxis: {
-                type: 'datetime',
-                categories: ["2018-09-19T00:00:00.000Z", "2018-09-19T01:30:00.000Z", "2018-09-19T02:30:00.000Z", "2018-09-19T03:30:00.000Z", "2018-09-19T04:30:00.000Z", "2018-09-19T05:30:00.000Z", "2018-09-19T06:30:00.000Z"]
-            },
-            tooltip: {
-                x: {
-                    format: 'dd/MM/yy HH:mm'
+            //Pie
+            var options = {
+                series: [Male, Female],
+                chart: {
+                    width: 380,
+                    type: 'donut',
                 },
-            },
-        };
+                labels: ["Male", "Female"],
+                responsive: [{
+                    breakpoint: 480,
+                    options: {
+                        chart: {
+                            width: 200
+                        },
+                        legend: {
+                            show: false
+                        }
+                    }
+                }],
+                legend: {
+                    position: 'right',
+                    offsetY: 0,
+                    height: 230,
+                }
+            };
 
-        var chart = new ApexCharts(document.querySelector("#area"), options);
-        chart.render();
+            var chart = new ApexCharts(document.querySelector("#chart"), options);
+            chart.render();
+
+
+            //Bar
+            var options = {
+                series: [{
+                    name: "Gender",
+                    data: [Male, Female]
+                }],
+                chart: {
+                    type: 'bar',
+                    height: 250
+                },
+                plotOptions: {
+                    bar: {
+                        borderRadius: 4,
+                        vertical: true,
+                    }
+                },
+                labels: ["Male", "Female"],
+                xaxis: {
+                    categories: ['Male', 'Female'],
+                }
+            };
+
+            var chart = new ApexCharts(document.querySelector("#bar"), options);
+            chart.render();
+        })
+
     </script>
 }

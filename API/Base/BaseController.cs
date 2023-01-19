@@ -20,10 +20,6 @@ public class BaseController<Repository, Entity, Key> : ControllerBase
         _repo = repo;
     }
 
-    //public BaseController(EducationsController repo)
-    //{
-    //}
-
     [HttpGet]
     public ActionResult GetAll()
     {
@@ -32,7 +28,7 @@ public class BaseController<Repository, Entity, Key> : ControllerBase
             var result = _repo.Get();
             return result.Count() == 0
             ? Ok(new { statusCode = 204, message = "Data Not Found!" })
-            : Ok(new { statusCode = 201, message = "Success", data = result });
+            : Ok(result);
         }
         catch (Exception e)
         {
@@ -50,7 +46,7 @@ public class BaseController<Repository, Entity, Key> : ControllerBase
             var result = _repo.Get(key);
             return result == null
             ? Ok(new { statusCode = 204, message = $"Data With Id {key} Not Found!" })
-            : Ok(new { statusCode = 201, message = $"Data Found!", data = result });
+            : Ok(result);
         }
         catch (Exception e)
         {

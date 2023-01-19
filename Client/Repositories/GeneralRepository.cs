@@ -44,6 +44,7 @@ public class GeneralRepository<Entity, TId> : IRepository<Entity, TId>
     public async Task<Entity> Get(TId id)
     {
         Entity entity = null;
+
         using (var response = await httpClient.GetAsync(request + id))
         {
             string apiResponse = await response.Content.ReadAsStringAsync();
@@ -51,6 +52,18 @@ public class GeneralRepository<Entity, TId> : IRepository<Entity, TId>
         }
         return entity;
     }
+    //public Entity Get(TId id)
+    //{
+    //    var result = httpClient.GetAsync(request + id).Result;
+    //    if (result.IsSuccessStatusCode)
+    //    {
+    //        string Response = result.Content.ReadAsStringAsync().Result;
+    //        var data = JsonConvert.DeserializeObject<Entity>(Response);
+    //        return data;
+
+    //    }
+    //    return null;
+    //}
 
     public HttpStatusCode Post(Entity entity)
     {
